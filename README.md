@@ -17,7 +17,7 @@ To run the application locally, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/calories-counter.git
-´´´
+```
 2. Open the index.html file in your web browser.
 
 3. Start tracking your calorie intake!
